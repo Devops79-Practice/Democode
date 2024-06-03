@@ -1,4 +1,4 @@
-InputCheck
+InputCheck()
 {
   if [ -z "$1" ]; then
     {
