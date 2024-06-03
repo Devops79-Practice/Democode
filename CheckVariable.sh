@@ -10,4 +10,4 @@ echo "$1"
 }
 fi
 }
-InputCheck abc
+InputCheck
