@@ -4,7 +4,9 @@ InputCheck
     {
     echo No Arguments passed as input
     }
+else
+{
+echo "$1"
+}
 fi
 }
-
-InputCheck
