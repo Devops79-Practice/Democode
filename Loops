@@ -3,3 +3,8 @@ while [ $i -gt 0 ]; do
   echo Hello
   ((i--))
 done
+
+#For Loops
+for course in devops aws gcp ; do
+ echo $course
+done
