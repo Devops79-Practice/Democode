@@ -8,3 +8,9 @@ done
 for course in devops aws gcp ; do
  echo $course
 done
+
+for i in 1 2 3 ; do
+ if [ $i -eq 2]; then
+   echo Success
+   exit
+fi
