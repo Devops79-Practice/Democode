@@ -1,4 +1,4 @@
-Source Support.sh
+source Support.sh
 Heading "Checking_Variables"
 InputCheck()
 {
