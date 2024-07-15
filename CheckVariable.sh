@@ -1,5 +1,5 @@
 Source Support.sh
-Heading "Checking Variables"
+Heading "Checking_Variables"
 InputCheck()
 {
   if [ -z "$1" ]; then
