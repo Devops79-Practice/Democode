@@ -4,7 +4,7 @@ InputCheck()
 {
   if [ -z "$1" ]; then
     {
-    echo No Arguments passed as input.
+    echo No Arguments passed as input..
     }
 else
 {
